@@ -1,3 +1,3 @@
 
-Toaster
-1234
+password: 1234
+Username: Toaster
